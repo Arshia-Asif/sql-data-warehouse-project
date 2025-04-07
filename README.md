@@ -41,6 +41,8 @@ Specifications
     Sales Trends
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+# 🛠️ Important Links & Tools:
+https://www.notion.so/Data-Warehouse-Project-1cc010b613ed8099aa89eb42f79b6140?pvs=4  Project Template(All Project Phases and Tasks)
 
     
 
