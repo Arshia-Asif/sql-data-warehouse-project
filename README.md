@@ -42,9 +42,8 @@ Specifications
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 # 🛠️ Important Links & Tools:
-https://www.notion.so/Data-Warehouse-Project-1cc010b613ed8099aa89eb42f79b6140?pvs=4  Project Template(All Project Phases and Tasks)
-SQL Server Express: Lightweight server for hosting your SQL database.
-SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
+[Notion](https://www.notion.so/Data-Warehouse-Project-1cc010b613ed8099aa89eb42f79b6140?pvs=4) Project Template(All Project Phases and Tasks)
+
 
     
 
