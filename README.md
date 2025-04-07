@@ -42,7 +42,10 @@ Specifications
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 # 🛠️ Important Links & Tools:
-[Notion](https://www.notion.so/Data-Warehouse-Project-1cc010b613ed8099aa89eb42f79b6140?pvs=4) Project Template(All Project Phases and Tasks)
+* [Notion](https://www.notion.so/Data-Warehouse-Project-1cc010b613ed8099aa89eb42f79b6140?pvs=4): Project Template(All Project Phases and Tasks)
+* [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
+* [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) : Lightweight server for hosting your SQL database.
+* [SQL Server Management Studio(SSMS)](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for Managing and Interacting with Database
 
 
     
