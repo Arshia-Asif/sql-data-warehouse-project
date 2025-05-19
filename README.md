@@ -18,38 +18,20 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 - **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 - **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
     
-# 🚀 Project Requirements
-## Building the Data Warehouse (Data Engineering)
-### Objective
+# 🚀 Project Requirements: Building the Data Warehouse (Data Engineering)
 
-#### Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-## **Specifications**
+## Objective
 
-- ### **Data Sources:**   
-Import data from two source systems (ERP and CRM) provided as CSV files.  
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-- ### **Data Quality:**  
-Cleanse and resolve data quality issues prior to analysis.  
+## Specifications
 
-- ### **Integration:**  
-Combine both sources into a single, user-friendly data model designed for analytical queries.  
+- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+- **Scope**: Focus on the latest dataset only; historization of data is not required.
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-- ### **Scope:**  
-Focus on the latest dataset only; historization of data is not required.  
-
-- ### **Documentation:**  
-Provide clear documentation of the data model to support both business stakeholders and analytics teams.  
-
-## BI: Analytics & Reporting (Data Analysis)
-### Objective
-
-#### Develop SQL-based analytics to deliver detailed insights into:
-
-* Customer Behavior
-* Product Performance
-* Sales Trends
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 # 🛠️ Important Links & Tools:
 * [Notion](https://www.notion.so/Data-Warehouse-Project-1cc010b613ed8099aa89eb42f79b6140?pvs=4): Project Template(All Project Phases and Tasks)
 * [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
